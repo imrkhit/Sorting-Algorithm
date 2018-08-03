@@ -1,2 +1,2 @@
 # Sorting-Algorithm
-This repository consists of various sorting algorithms like bubble sort, merge sort, heap sort etc..
+This repository contains various sorting algorithms like bubble sort, merge sort, heap sort etc..
